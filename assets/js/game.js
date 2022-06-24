@@ -14,7 +14,6 @@ var fight = function (enemyName) {
 
  //Alert players that they are starting the round
     window.alert("Welcome to Robot Gladiators!");
-
     // if player picks "skip" confirm and then stop the loop
     if (promptFight === "skip" || promptFight === "SKIP") {
       // confirm player wants to skip
